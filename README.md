@@ -4,7 +4,7 @@ The goal of this assignment is to create a four-function calculator. The program
 ```
 ./calc x 2 2.5 
 ``` 
-should print `5` and then exit. The calculator should support addition, subtraction, multiplcation, and division.
+should print `5` and then exit. The calculator should support addition, subtraction, multiplication, and division.
 The corresponding characters for these operations will be `'+', '-', 'x', '/'`
 
 For this assignment, you will be writing your own implementation of `calc.c`. An obfuscated implementation of `calc.c` has been provided here so you can test it and see how it should work, but DO NOT attempt to emulate the actual code in this file; by design it is far more complicated and less readable than your code should be. 
