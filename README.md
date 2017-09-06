@@ -4,7 +4,7 @@ The goal of this assignment is to create a four-function calculator. The program
 ```
 ./calc x 2 2.5 
 ``` 
-should print `5.00` and then exit. The calculator should support addition, subtraction, multiplcation, and division.
+should print `5` and then exit. The calculator should support addition, subtraction, multiplcation, and division.
 The corresponding characters for these operations will be `'+', '-', 'x', '/'`
 
 For this assignment, you will be writing your own implementation of `calc.c`. An obfuscated implementation of `calc.c` has been provided here so you can test it and see how it should work, but DO NOT attempt to emulate the actual code in this file; by design it is far more complicated and less readable than your code should be. 
@@ -26,7 +26,7 @@ This will produce a binary executable named `calc`. You can run calc with your o
 which should print `3.5` to stdout and then exit. 
 
 # Running the test script
-A shell scipt is also provided with some test cases for your program, along with the expected outputs. You may use this to test your program. The program used to grade this assignment will be script in the same format but with additional test cases. 
+A shell scipt is also provided with some test cases for your program, along with the expected outputs. You may use this to test your program. The program used to grade this assignment will be a script in the same format but with additional test cases. 
 
 From your terminal of choice, run 
 ```
